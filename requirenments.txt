@@ -1,7 +1,0 @@
-Pillow
-numpy
-opencv-python
-matplotlib
-torch
-cvzone
-segment-anything  # If installed via pip or specify source if not available
